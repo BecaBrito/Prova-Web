@@ -1,0 +1,21 @@
+//exercício 1
+const letras = ['a', 'b', 'c', 'd', 'e'] //const declara a variável
+letras.shift () //shift retira o primeiro valor
+letras.pop () //pop retira o último valor
+console.log (letras) //console.log mostra a função 
+
+
+//exercício 2
+(e) = é usado para atribuir um valor a uma variável, == é usado para comparação solta (não leva em consideração o tipo), e === é usado para comparação escrita (leva em consideração o tipo)
+
+
+//exercício 3
+(Não consegui realizá-lo)
+
+
+//exercício 4
+(c) carros.push("HB20"); e carros.pop();
+
+//exercício 5
+(e) A variavél tipoIngresso não será atribuida corretamente porque a idade está fora dos intervalos tratados.
+
