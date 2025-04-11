@@ -3,7 +3,7 @@ const letras = ['a', 'b', 'c', 'd', 'e'] //const declara a variável
 letras.shift () //shift retira o primeiro valor
 letras.pop () //pop retira o último valor
 console.log (letras) //console.log mostra a função 
-
+.
 
 //exercício 2
 (e) = é usado para atribuir um valor a uma variável, == é usado para comparação solta (não leva em consideração o tipo), e === é usado para comparação escrita (leva em consideração o tipo)
